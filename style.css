@@ -1,0 +1,36 @@
+/* make background of site blue */
+body {
+    background-color: rgb(28, 41, 92);
+}
+
+/* text css */
+body {
+    color: ivory;
+}
+body {
+    font-size: 42px;
+}
+/* removing large gap between paragraphs */
+p {
+    margin: 0;
+}
+h1 {
+    margin: 0;
+}
+/* make links white */
+a {
+    color: ivory;
+}
+/*making banner*/
+ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    text-decoration: none;
+    gap: 20px;
+}
+
+/* center the hero text/button */
+.hero-content {
+    text-align: center;
+}
